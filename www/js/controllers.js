@@ -27,7 +27,7 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('TestCtrl', function($scope) {
+.controller('MyTestCtrl', function($scope) {
   // $scope.settings = {
   //   enableFriends: true
   // };
