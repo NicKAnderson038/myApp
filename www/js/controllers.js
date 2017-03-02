@@ -25,4 +25,10 @@ angular.module('starter.controllers', [])
   $scope.settings = {
     enableFriends: true
   };
+})
+
+.controller('TestCtrl', function($scope) {
+  // $scope.settings = {
+  //   enableFriends: true
+  // };
 });
